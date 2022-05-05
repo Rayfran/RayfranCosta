@@ -2,6 +2,18 @@ Hello, I'm Aldair Azevedo!
 
 🕹 I'm a Fullstack Jr Developer.
 
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="index.css">
+    <style>
+        #Mic {
+            color:#fff;
+        }
+    </style>
+</head>
+
 <div>
   <a href="https://github.com/AldairAzevedo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AldairAzevedo&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
@@ -21,12 +33,6 @@ Hello, I'm Aldair Azevedo!
   <img align="center" alt="Aldair-XD" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg">
   <img align="center" alt="Aldair-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
   <img align="center" alt="Aldair-AWS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
-    
-  <style>
-      #Mic {
-          color:#fff;
-      }
-  </style>
     
 </div>
  
