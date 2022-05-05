@@ -7,7 +7,14 @@ Hello, I'm Aldair Azevedo!
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AldairAzevedo&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AldairAzevedo&layout=compact&langs_count=7&theme=highcontrast"/>
 </div>
-  
+  <body>
+    
+            <i class="devicon-microsoftsqlserver-plain-wordmark"></i>
+          
+  <header>
+    
+            <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
+      
   <div style="display: inline_block"><br>
   <img align="center" alt="Aldair-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Aldair-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -21,9 +28,9 @@ Hello, I'm Aldair Azevedo!
   <img align="center" alt="Aldair-XD" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg">
   <img align="center" alt="Aldair-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg">
   <img align="center" alt="Aldair-AWS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg">
-          
+</body>          
 </div>
- 
+</header>
   
   ##
   
