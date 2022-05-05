@@ -2,21 +2,6 @@ Hello, I'm Aldair Azevedo!
 
 🕹 I'm a Fullstack Jr Developer.
 
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-     <style>
-        #Mic {
-  background-image: url(https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg);
-}
-.Mic:hover{
-  filter: invert(27%) sepia(51%) saturate(2878%) hue-rotate(346deg) brightness(104%) contrast(97%);
-}
-    </style>
-</head>
-
 <div>
   <a href="https://github.com/AldairAzevedo">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AldairAzevedo&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
