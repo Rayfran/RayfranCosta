@@ -9,7 +9,7 @@ Hello, I'm Aldair Azevedo!
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
      <style>
         #Mic {
-  background-image: url(icon.svg);
+  background-image: url(https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg);
 }
 .Mic:hover{
   filter: invert(27%) sepia(51%) saturate(2878%) hue-rotate(346deg) brightness(104%) contrast(97%);
