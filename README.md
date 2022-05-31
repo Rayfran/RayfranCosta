@@ -1,6 +1,6 @@
 Hello, I'm Aldair Azevedo!
 
-🕹 I'm a Fullstack Jr Developer.
+🕹 I'm a Fullstack Developer.
 
 <div>
   <a href="https://github.com/AldairAzevedo">
